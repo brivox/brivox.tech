@@ -42,7 +42,5 @@ Client details are withheld under NDA. We publish engineering notes, baselines, 
 - `engineering-standards`
 
 ## Contact
-https://brivox.tech
-support@brivox.tech
-- Email: contact@yourdomain.com
-- Website: https://yourdomain.com
+- Email: support@brivox.tech
+- Website: [https://yourdomain.com](https://brivox.tech)
